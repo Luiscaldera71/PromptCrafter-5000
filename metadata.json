@@ -1,0 +1,5 @@
+{
+  "name": "PromptCrafter 5000",
+  "description": "An interactive mentor that guides students step-by-step in creating a 'Prompt Base' for their own AI assistant. The app uses a conversational UI to collect information and then assembles the final prompt.",
+  "requestFramePermissions": []
+}
